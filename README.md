@@ -26,7 +26,7 @@ It should look like this :
 
 Verify the column, edit the Collation and/or Datatype,
 It must look like this :
-![image](https://user-images.githubusercontent.com/23090309/123019958-cfa11c80-d3d1-11eb-9111-3b54f46bfd22.png)
+![image](https://forum.cfx.re/uploads/default/original/4X/0/3/b/03b2d5a924309b9982bb21f4464f6115bfc0f227.png)
 
 Do not forget to optimize your personnal pictures ! You can follow this great guide (tested myself) : https://www.webfx.com/blog/web-design/5-easy-steps-optimize-your-images-photoshop/
 My folder was ~470mb before, now it’s 51mb.
